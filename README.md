@@ -8,7 +8,7 @@ Adapted to use with python3 and python-telegram-bot.
 Register a Telegram-Bot (Please use a search-engine for how this is done).
 Open a conversation with your bot and aquire a _chat-id_.
 
-Required Informations:
+Required Informations to change within telegram.py:
 ```
 telegram_bot_token = '0123456789:myHash....'
 telegram_chatid = '123456789'
@@ -31,7 +31,7 @@ chmod a+x telegram.py
 If you don't want to see ```telegram.py``` as a name in CheckMK-Notifications rename it the way you like it.
 
 ### Ressources:
-https://checkmk.de/cms_notifications.html
-https://www.tutonaut.de/checkmk-notifications-per-telegram-empfangen/
-https://metzlog.srcbox.net/2016/01/monitoring-notifications-via-telegram/
+* https://checkmk.de/cms_notifications.html
+* https://www.tutonaut.de/checkmk-notifications-per-telegram-empfangen/
+* https://metzlog.srcbox.net/2016/01/monitoring-notifications-via-telegram/
 
