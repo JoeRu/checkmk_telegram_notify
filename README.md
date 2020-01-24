@@ -1,6 +1,6 @@
 # checkmk_telegram_notify
 The original this was found under [1](https://metzlog.srcbox.net/2016/01/monitoring-notifications-via-telegram/)
-and  [2](https://www.tutonaut.de/checkmk-notifications-per-telegram-empfangen/) but wasn't working any longer - since some changes in API and urllib-libarys.
+and  [2](https://www.tutonaut.de/checkmk-notifications-per-telegram-empfangen/) but wasn't working any longer - since some changes in API and urllib-libraries.
 
 Adapted to use with python3 and python-telegram-bot.
 
