@@ -35,3 +35,6 @@ If you don't want to see ```telegram.py``` as a name in CheckMK-Notifications re
 * https://www.tutonaut.de/checkmk-notifications-per-telegram-empfangen/
 * https://metzlog.srcbox.net/2016/01/monitoring-notifications-via-telegram/
 
+### Other Notfiy-Programms
+if you like to use Signal - rather than telegram have a look here
+[Signal Notify](https://morph027.gitlab.io/signal-web-gateway/usage/examples/check-mk/)
